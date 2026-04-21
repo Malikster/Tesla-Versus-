@@ -16,6 +16,7 @@ Tabelul include, pentru fiecare model:
 - RCA orientativ pe 12 luni
 - CASCO orientativ pe 12 luni
 - cost total în primul an
+- cost total în primul an în euro
 - cost pentru un drum de 850 km
 - timp estimat pentru 850 km cu opriri de alimentare / încărcare
 - timp estimat pentru 850 km cu opriri și pauză de masă
@@ -33,6 +34,11 @@ Tabelul include, pentru fiecare model:
 - BMW M3 Competition Limousine cu M xDrive
 - Alfa Romeo Stelvio Quadrifoglio
 - Tesla Model Y Long Range AWD
+
+## Fișiere
+
+- `README.md` — descrierea metodologiei și a conținutului
+- `tabel_comparativ_masini_450_550_si_tesla_model_y_final.xlsx` — tabelul comparativ actualizat
 
 ## Ipoteze folosite în calcule
 
@@ -68,7 +74,3 @@ Datele folosite provin în principal din:
 - pagini oficiale de produs și liste de preț ale producătorilor
 - surse oficiale Tesla pentru Model Y
 - surse orientative pentru carburant, energie, impozit auto și asigurări
-
-## Status
-
-README-ul descrie structura comparației. Fișierul tabelului poate fi actualizat separat pe măsură ce modelul este extins cu noi coloane sau ipoteze.
